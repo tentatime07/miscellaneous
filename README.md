@@ -25,8 +25,7 @@ git clone https://github.com/tentatime07/miscellaneous
 cd miscellaneous
 ```
 
-3. Run the program you want:
-For example, rock-paper-scissors:
+3. Run the program you want. For example, rock-paper-scissors:
 
 ```bash
 python rock-paper-scissors.py
